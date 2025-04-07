@@ -64,7 +64,6 @@ System Testing: Verifies the complete system.
 Acceptance Testing: Confirms the software meets user needs.
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is the practice of crafting precise and structured inputs to get accurate and relevant responses from AI models. It is crucial for improving AI interactions, ensuring clarity, and obtaining useful outputs.
